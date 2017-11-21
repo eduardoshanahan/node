@@ -1,5 +1,7 @@
-FROM mhart/alpine-node:6.5.0
+FROM eduardoshanahan/alpine:latest
 
-MAINTAINER Eduardo Shanahan <contact@eduardoshanahan.com>
+LABEL maintainer="Eduardo Shanahan <contact@eduardoshanahan.com>"
+
+RUN apk add --update nodejs nodejs-npm
 
 ENTRYPOINT /bin/sh
