@@ -54,10 +54,10 @@ Edit the file .git/config, and put the following details:
 
 ```
 [remote "github"]
-	url = ssh://git@github.com-eduardoshanahan/eduardoshanahan/alpine.git
+	url = ssh://git@github.com-eduardoshanahan/eduardoshanahan/node.git
 	fetch = +refs/heads/*:refs/remotes/github/*
 [remote "bitbucket"]
-	url = ssh://git@bitbucket.org-eduardoshanahan/eduardoshanahan/alpine.git
+	url = ssh://git@bitbucket.org-eduardoshanahan/eduardoshanahan/node.git
 	fetch = +refs/heads/*:refs/remotes/bitbucket/*
 [user]
 	name = Eduardo Shanahan
