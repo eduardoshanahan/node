@@ -5,6 +5,7 @@
 * Changed: Using Alpine 3.6.0.3 with the package list already updated
 * New: Added script to send changes to Github and Bitbucket
 * New: Added script to build a new tag in Docker hub
+* Changed: npm version 3.10.10
 
 ## [6.10.3.r1] - 2017-11-21
 
