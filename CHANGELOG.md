@@ -1,5 +1,11 @@
 # Changelog
 
+## [6.10.3] - 2017-12-15
+
+* Changed: Using Alpine 3.6.0.3 with the package list already updated
+* New: Added script to send changes to Github and Bitbucket
+* New: Added script to build a new tag in Docker hub
+
 ## [6.10.3.r1] - 2017-11-21
 
 * Removed: bumpversion details
