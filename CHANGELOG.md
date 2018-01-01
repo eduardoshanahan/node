@@ -1,5 +1,10 @@
 # Changelog
 
+
+## [6.10.3.1] - 2018-01-01
+
+* New: Alpine version 3.7
+
 ## [6.10.3] - 2017-12-15
 
 * Changed: Using Alpine 3.6.0.3 with the package list already updated
